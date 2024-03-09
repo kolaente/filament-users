@@ -40,6 +40,6 @@
         "tomatophp/console-helpers": "^1.1",
         "bezhansalleh/filament-shield": "^3.0",
         "filament/filament": "^3.0.0",
-        "stechstudio/filament-impersonate": "^3.5"
+        "stechstudio/filament-impersonate": "*"
     }
 }
